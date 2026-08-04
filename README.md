@@ -14,11 +14,5 @@
   <a href="https://gonorrea.straw.page/"><i>strawpage</i></a>
 </p>
 
-<p align="center">
-<p align="center">
-  <!-- Foto centrada -->
-  <img src="https://cdn.phototourl.com/free/2026-07-19-568d3e59-b20a-48ca-ad85-015de0fcb419.jpg" alt="Foto">
-</p>
-
 <!-- Línea horizontal final -->
 ---
