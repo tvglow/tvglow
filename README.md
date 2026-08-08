@@ -10,11 +10,3 @@
   <a href="https://comolomueveesamuchachota.atabook.org/"><i>ATABOOK</i></a> • 
   <a href="https://gonorrea.straw.page/"><i>STRAWPAGE</i></a>
 </p>
-
-<p align="center">
-  <!-- Texto en cursiva -->
-  <i>there's hidden hawks here</i>
-</p>
-
-<!-- Línea horizontal final -->
----
