@@ -1,8 +1,9 @@
 <p align="center">
-  <!-- Contador de visitas (se suma solo al entrar) -->
+  <!-- Contador de visitas en blanco con ala -->
   <a href="https://github.com/tvglow">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=tvglow.tvglow&left_color=gray&right_color=white&left_text=%F0%9F%AA%BD" alt="Visitas">
   </a>
   <br><br>
-  <!-- GIF de borde a borde -->
-  <img src="[URL_DE_TU_GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZng2eXVjdjB1aHV4Nmh6NWh3cmtoMG1wYjJtbnQ3YTBpbGYyOGhuciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Oo5Zka61DnajggwWb/giphy.gif" width="100%" alt="GIF">
+  <!-- Imagen de borde a borde (reemplaza URL_DE_LA_IMAGEN por su link directo) -->
+  <img src="(https://cdn.phototourl.com/free/2026-08-14-a290b1a2-6d97-440d-9096-e903949d9761.jpg)" width="100%" alt="Imagen">
+</p>
