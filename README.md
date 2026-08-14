@@ -1,9 +1,9 @@
 <p align="center">
   <!-- Contador de visitas en blanco con ala -->
   <a href="https://github.com/tvglow">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=tvglow.tvglow&left_color=gray&right_color=white&left_text=%F0%9F%AA%BD" alt="Visitas">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=tvglow.tvglow&left_color=gray&right_color=black&left_text=%F0%9F%AA%BD" alt="Visitas"
   </a>
   <br><br>
-  <!-- Imagen de borde a borde (reemplaza URL_DE_LA_IMAGEN por su link directo) -->
-  <img src="(https://cdn.phototourl.com/free/2026-08-14-a290b1a2-6d97-440d-9096-e903949d9761.jpg)" width="100%" alt="Imagen">
+  <!-- Imagen de borde a borde -->
+  <img src="https://cdn.phototourl.com/free/2026-08-14-a290b1a2-6d97-440d-9096-e903949d9761.jpg" width="100%" alt="Imagen">
 </p>
