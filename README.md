@@ -1,7 +1,7 @@
 <p align="center">
   <!-- Contador de visitas en blanco con ala -->
   <a href="https://github.com/tvglow">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=tvglow.tvglow&left_color=gray&right_color=#98D5EB&left_text=%F0%9F%AA%BD" alt="Visitas"
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=tvglow.tvglow&left_color=gray&right_color=WHITE&left_text=%F0%9F%AA%BD" alt="Visitas"
   </a>
   <br><br>
   <!-- Imagen de borde a borde -->
